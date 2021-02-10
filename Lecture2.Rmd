@@ -1,10 +1,17 @@
 ---
 title: "HW#2"
+author: "Hallie"
+date: "Feb 10 2021"
 output: html_document
----
-##This is Hallie .
 
-My is the lecture 2 practice.
+---
+##This is Hallie Shi!
+
+### HW2 content
+
+### Hopefully it will work.
+
+### Week 2: [link text: hW answer](Lecture2.html)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
