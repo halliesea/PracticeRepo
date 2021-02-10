@@ -13,6 +13,8 @@ output: html_document
 ### Hopefully it will work.
 
 ### Week 2: [link text: hW answer](Lecture2.html)
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
