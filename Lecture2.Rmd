@@ -1,18 +1,17 @@
 ---
 title: "HW#2"
-author: "Hallie"
+author: "Hallie Shi"
 date: "Feb 10 2021"
 output: html_document
 ---
-##This is Hallie Shi!
+## Hello Everyone! Welcome to my webpage!
+This is Hallie Shi!
 
 <img src="PhotoName.jpg" width = "200" height ="200 />
 
-### HW2 content
+### Happy and Cool!
 
 ### Hopefully it will work.
-
-### Week 2: [link text: hW answer](Lecture2.html)
 
 
 ```{r setup, include=FALSE}
