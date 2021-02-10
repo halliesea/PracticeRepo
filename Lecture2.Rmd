@@ -3,9 +3,10 @@ title: "HW#2"
 author: "Hallie"
 date: "Feb 10 2021"
 output: html_document
-
 ---
 ##This is Hallie Shi!
+
+<img src="PhotoName.jpg" width = "200" height ="200 />
 
 ### HW2 content
 
